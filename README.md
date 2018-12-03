@@ -1,7 +1,7 @@
-# kathy-jzh.github.io
+Welcome to my personal website!
 
-## Welcome to my personal website!
+url: http://kathy-jzh.github.io
 
-## Hope you enjoy!
+Hope you enjoy!
 
 Contact me if you have any questions :)
