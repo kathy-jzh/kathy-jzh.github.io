@@ -4,4 +4,4 @@
 
 ## Hope you enjoy!
 
-## Contact me if you have any questions :)
+Contact me if you have any questions :)
