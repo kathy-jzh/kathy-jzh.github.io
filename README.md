@@ -1,4 +1,4 @@
-Welcome to my personal website!
+## Welcome to my personal website!
 
 url: http://kathy-jzh.github.io
 
